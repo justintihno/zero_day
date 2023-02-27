@@ -25,7 +25,7 @@ $ git push origin main
 </details>
     
 ## Tasks :page_with_curl:
-Created repository [zero_day](https://github.com/justintihno/zero_day) and pushed commits to github
+Created repository [zero_day](https://github.com/justintihno/zero_day)
     
     
 
